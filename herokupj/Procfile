@@ -1,0 +1,1 @@
+web: gunicorn herokupj.wsgi --log-file -
